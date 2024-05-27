@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.backgorund {
+    background: url(https://images.getbento.com/accounts/5962c30dd4c1d459390adc54144f038f/media/images/63554JTP_7620.jpg?w=1200&fit=crop&auto=compress,format&crop=focalpoint&fp-x=0.5&fp-y=0.5);
+    height: 100vh;
+    width: 100%;
+}
+
+table {
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(0, 0, 0);
+    background-color: white;
+    width: 1000px;
+    tr {
+        width: 1000px;
+    }
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+}
